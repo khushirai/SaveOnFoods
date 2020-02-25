@@ -148,7 +148,7 @@ export function Navbar() {
                         className={classes.logo}
                     >
                         <Typography className={classes.heading} variant="h4">
-                            Save On Foods
+                            Save On
                         </Typography>
                     </Link>
                     <Grid>
